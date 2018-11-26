@@ -4,5 +4,6 @@
 
 * Travamento/Destravamento de porta utilizando a tecnologia RFID/NFC
 
-Módulo: RFID-RC522
-Plataforma: Arduino
+* Módulo: RFID-RC522
+
+* Plataforma: Arduino
